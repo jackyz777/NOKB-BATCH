@@ -29,6 +29,6 @@ _This project is completely free and its source code is hidden. It is available 
 
 ### **VIRUS TOTAL RESULT**
 https://www.virustotal.com/gui/file/fee55abea3c3fe3e0f514c3079e3dc46b4969d1a9d8baebcef4d07a7e9b18bcb
-> _2 out of 60 antivirus programs flagged it as a trojan due to system file modifications. It is not a virus..._
+> _1 out of 60 antivirus programs flagged it as a trojan due to system file modifications. It is not a virus..._
 
 
