@@ -1,4 +1,4 @@
-### **⚔️ Knockback BAT Script ⚔️**
+### **⚔️ Knockback & Hit Dedection BAT Script ⚔️**
 
 _This project is a BAT file designed to help players optimize knockback rates on the Minecraft server. The script makes adjustments to your system by optimizing internet packets and modifying specific registry settings, aiming for a more stable gaming experience during PvP._
 Warning: _This file is not a cheat. It simply improves gameplay by adjusting network and system settings._
