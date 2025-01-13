@@ -28,7 +28,7 @@ _This script is used at the user's own risk. The project owner is not responsibl
 _This project is completely free and its source code is hidden. It is available for everyone to use._
 
 ### **VIRUS TOTAL RESULT**
-https://www.virustotal.com/gui/file/fee55abea3c3fe3e0f514c3079e3dc46b4969d1a9d8baebcef4d07a7e9b18bcb
+https://www.virustotal.com/gui/file/57785da70bbe75eedc265e767e1b46f0a5d62f350e3aeeafd68dd95a683263af
 > _1 out of 60 antivirus programs flagged it as a trojan due to system file modifications. It is not a virus..._
 
 
